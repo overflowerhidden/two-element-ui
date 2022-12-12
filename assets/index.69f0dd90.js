@@ -1,0 +1,1 @@
+import{d as a,f as r,u as s,r as c,o as t}from"./index.34df28db.js";const p=a({__name:"index",setup(_){let o=e=>{console.log(e)};return(e,l)=>{const n=c("m-choose-area");return t(),r(n,{onChange:s(o)},null,8,["onChange"])}}});export{p as default};
